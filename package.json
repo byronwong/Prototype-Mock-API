@@ -1,0 +1,22 @@
+{
+  "name": "prototype-mock-api",
+  "version": "1.0.0",
+  "description": "Mock API using JSON Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byronwong/Prototype-Mock-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byronwong/Prototype-Mock-API/issues"
+  },
+  "homepage": "https://github.com/byronwong/Prototype-Mock-API#readme",
+  "devDependencies": {
+    "json-server": "^0.16.3"
+  }
+}
